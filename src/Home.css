@@ -1,0 +1,57 @@
+.home-container {
+  width: 80%;
+  margin: 0 auto;
+}
+
+.navbar {
+  background-color: #007bff;
+  color: white;
+  padding: 10px;
+  text-align: center;
+}
+
+.search-bar {
+  margin: 20px 0;
+  text-align: center;
+}
+
+.search-bar input {
+  padding: 10px;
+  width: 50%;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+.dashboard {
+  text-align: center;
+}
+
+.sort-dropdown {
+  margin-bottom: 20px;
+}
+
+.sort-dropdown label {
+  margin-right: 10px;
+}
+
+.sort-dropdown select {
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+.bonds-table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.bonds-table th,
+.bonds-table td {
+  border: 1px solid #ccc;
+  padding: 10px;
+  text-align: left;
+}
+
+.bonds-table th {
+  background-color: #f2f2f2;
+}
